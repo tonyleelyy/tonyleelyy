@@ -13,4 +13,4 @@
 - ⚡ Fun fact: I am just a liberal arts student majoring in English :joy:
 
 ## Get in touch:
-[![](https://img.shields.io/badge/-https://tonyleelyy.top-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://tonyleelyy.top) [![](https://img.shields.io/badge/-tonyleelyy@gmail.com-911318?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:tonyleelyy@gmail.com)
+[![](https://img.shields.io/badge/-https://tonyleelyy.top-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://tonyleelyy.top)
