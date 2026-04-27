@@ -11,6 +11,3 @@
 - 🌱 I’m currently learning HTML, CSS, Python...
 - 💬 Ask me about Hackintosh/HTML/Video Editing
 - ⚡ Fun fact: I am just a liberal arts student majoring in English :joy:
-
-## Get in touch:
-[![](https://img.shields.io/badge/-https://tonyleelyy.top-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://tonyleelyy.top)
